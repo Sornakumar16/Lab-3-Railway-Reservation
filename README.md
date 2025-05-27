@@ -1,5 +1,6 @@
 # Lab-3-Railway-Reservation
-
+## Name : SORNAKUMAR S
+## Reference Number: 212223230210
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
 ### PROBLEM STATEMENT:
@@ -18,8 +19,23 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
+### USECASE DIAGRAM:
+![SE-EX-3 2](https://github.com/user-attachments/assets/d2f507e3-51fc-4e22-9648-2afff0ee032f)
 
+### CLASS DIAGRAM:
+![SE-EX-3 1](https://github.com/user-attachments/assets/37b3eb07-4891-436c-ad0f-fd9865290718)
 
+### SEQUENCE DIAGRAM:
+![SE-EX-3 3](https://github.com/user-attachments/assets/f206d96f-44b4-4013-9d68-88ad94a73fdd)
+
+### ACTIVITY DIAGRAM:
+![SE-EX-3 5](https://github.com/user-attachments/assets/b7b369af-e0a4-4bf4-9c73-c416a03635a0)
+
+### PACKAGE DIAGRAM:
+![SE-EX-3 6](https://github.com/user-attachments/assets/d18ebfd8-c193-4c71-9779-aba574490c2a)
+
+### COMMUNICATION DIAGRAM:
+![SE-EX-3 4](https://github.com/user-attachments/assets/c892649b-dc00-44f1-8c82-441f23d77637)
 
 ### RESULT:
 Thus the project to develop e-ticketing system was developed using Star UML Software.
